@@ -1,7 +1,6 @@
 .DS_Store
 .idea
 log
-models
 
 eval_results/
 
@@ -18,6 +17,9 @@ eval_results/
 
 # xml files
 *.xml
+
+# readme 
+README.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
