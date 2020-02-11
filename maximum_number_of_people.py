@@ -19,7 +19,7 @@ predictor = create_mobilenetv1_ssd_predictor(net, candidate_size=200)
 mot_tracker=Sort()
 
 #Colors
-black=(1,0,0)
+black=(1,1,1)
 white=(255,255,255)
 red=(0,0,255)
 green=(0,255,0)
